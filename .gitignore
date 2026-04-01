@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+example_model.pkl
+v4.3/meta_model.parquet
+v5.2/features.json
+v5.2/live.parquet
+v5.2/train.parquet
+v5.2/validation.parquet
